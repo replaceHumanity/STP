@@ -16,5 +16,5 @@ Specific Task Performer (STP) is a task automation framework designed to build c
 Get started today with the Replace Humanity team!
 
 
-# Non Commercial use If you are going to use it for commercial usage you need to notify us at amanjyotmar@gmail.com email and untill you receive a response you cannot proceed with it otherwise it will cause legal actions and you may need to pay us the exact amount you earned from using our project. If you agree upon the terms and conditions of use only then proceed with the project.
+## Non Commercial use If you are going to use it for commercial usage you need to notify us at amanjyotmar@gmail.com email and untill you receive a response you cannot proceed with it otherwise it will cause legal actions and you may need to pay us the exact amount you earned from using our project. If you agree upon the terms and conditions of use only then proceed with the project.
 
