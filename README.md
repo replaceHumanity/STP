@@ -1,8 +1,4 @@
----
-title: Replace Humanity Project
-shortTitle: Task automation software.
-description: New era of task automation softwares.
----
+# Replace Humanity Project
 
 Welcome to the Replace Humanity documentation — the next generation of `Automation`.
 
